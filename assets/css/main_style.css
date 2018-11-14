@@ -92,16 +92,14 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 .text-wrapper-inline {
-	display: inline;
+	display: inline-block;
 	color: #000000;
-	height: inherit;
 	width: 20vw;
 }
 
 .img-wrapper-inline {
-	display: inline;
+	display: inline-block;
 	width: 50%;
-	height: inherit;
 }
 
 .main_page_text {
